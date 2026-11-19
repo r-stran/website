@@ -2,6 +2,4 @@
 title: "Resume"
 ---
 
-Download my resume here:
-
-##  [Resume PDF](files/Resume.pdf)
+#### [Resume PDF](files/Resume.pdf)

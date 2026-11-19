@@ -2,27 +2,27 @@
 title: "About Me"
 ---
 
-Write a short biography here.
-
-Include:
-
--   Educational background
--   Professional interests
--   Technical skills
--   Career goals
 
 ## Education
 
-Master of Applied Economics and Data Science, University of Pennsylvania (expaceted 2027) Batelor of Science, University Name 2026
+- M.A. in Statistics and Data Science -- Wharton, Penn '27
+- B.S. in Mathematics and Cognitive Science (Double Major) -- UC San Diego '25
 
-## Interests
+## Research Interests
 
--   Econometrics
--   Machine Learning
--   Data Analysis
+-   Statistical Learning
+-   Selective Inference
+-   Uncertainty Quantification
+
+## Beyond Academia
+
+- Music production 
+- Calisthenics 
+- Hiking 
+- Philosophy
 
 ## Contact
 
-## student\@email.edu
+stran3 [at] wharton [dot] upenn [dot] edu
 
 ------------------------------------------------------------------------
