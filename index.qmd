@@ -30,15 +30,14 @@ Welcome to my personal website.
 
 <div style="text-align: center; margin-top: 50px;">
 
-  <img src="images/profile.png"
-       alt="Penn in the AM"
+  <img src="images/horizon.jpeg"
        style="height: 120px; width: 120px; border-radius: 8px;">
 
-  <p><strong> Horizon </strong><br>
+  <p><strong> horizon </strong><br>
   <small>Original Track · 2026</small></p>
 
   <audio controls style="width: 250px;">
-    <source src="audio/penn_in_the_am.wav" type="audio/wav">
+    <source src="audio/horizon.wav" type="audio/wav">
   </audio>
 
 </div>
