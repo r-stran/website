@@ -4,14 +4,14 @@
     "href": "bio.html",
     "title": "About Me",
     "section": "",
-    "text": "M.A. in Statistics and Data Science – Wharton, Penn ’27\nB.S. in Mathematics and Cognitive Science (Double Major) – UC San Diego ’25"
+    "text": "M.A. in Statistics and Data Science – Wharton, Penn ’27\n B.S. in Mathematics and Cognitive Science (Double Major) – UC San Diego ’25"
   },
   {
     "objectID": "bio.html#education",
     "href": "bio.html#education",
     "title": "About Me",
     "section": "",
-    "text": "M.A. in Statistics and Data Science – Wharton, Penn ’27\nB.S. in Mathematics and Cognitive Science (Double Major) – UC San Diego ’25"
+    "text": "M.A. in Statistics and Data Science – Wharton, Penn ’27\n B.S. in Mathematics and Cognitive Science (Double Major) – UC San Diego ’25"
   },
   {
     "objectID": "bio.html#interests",
@@ -65,9 +65,9 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Ricky Sang Tran",
+    "title": "",
     "section": "",
-    "text": "Ricky Sang Tran\nUniversity of Pennsylvaina\nWelcome to my personal website.\n\nQuick Links\n\n   \n\n\n\n\n\n\n\n\n\nPenn in the AM Original Track · 2026"
+    "text": "Welcome to my personal website."
   },
   {
     "objectID": "about.html",
@@ -88,7 +88,7 @@
     "href": "bio.html#research-interests",
     "title": "About Me",
     "section": "Research Interests",
-    "text": "Research Interests\n\nStatistical Learning\nSelective Inference\nUncertainty Quantification"
+    "text": "Research Interests\n\nSelective Inference\nUncertainty Quantification\nStatistical Learning"
   },
   {
     "objectID": "bio.html#personal-interests",
@@ -109,6 +109,13 @@
     "href": "bio.html#beyond-academia",
     "title": "About Me",
     "section": "Beyond Academia",
-    "text": "Beyond Academia\n\nMusic production\nCalisthenics\nHiking\nPhilosophy"
+    "text": "Beyond Academia\n\nMusic production\nWorking out\nHiking\nPhilosophy"
+  },
+  {
+    "objectID": "index.html#ricky-sang-tran",
+    "href": "index.html#ricky-sang-tran",
+    "title": "",
+    "section": "",
+    "text": "Welcome to my personal website."
   }
 ]

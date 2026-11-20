@@ -10,9 +10,7 @@ title: ""
 ::: {.column width="65%"}
 ![](images/UniversityofPennsylvania_FullLogo_RGB.png){width="250px"}
 
-# Ricky Sang Tran
-
-University of Pennsylvaina
+## Ricky Sang Tran
 
 Welcome to my personal website.
 
