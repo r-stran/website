@@ -34,7 +34,7 @@ Welcome to my personal website.
        alt="Penn in the AM"
        style="height: 120px; width: 120px; border-radius: 8px;">
 
-  <p><strong>Penn in the AM</strong><br>
+  <p><strong> Horizon </strong><br>
   <small>Original Track · 2026</small></p>
 
   <audio controls style="width: 250px;">
